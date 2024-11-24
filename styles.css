@@ -1,0 +1,19 @@
+h3{
+    color: brown;   
+}
+h2{
+    color: brown;
+}
+.space{
+
+    display:inline-block;
+    width:300px;
+}
+.me{
+    color: brown;
+}
+.space2{
+    display: inline-block;
+    width: 330px;
+}
+
